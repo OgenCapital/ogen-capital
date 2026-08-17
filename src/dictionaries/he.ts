@@ -92,7 +92,7 @@ export const he = {
       ],
     },
     principles: {
-      title: "שלושה עקרונות שלא זזים",
+      title: "עקרונות הליבה שלנו",
       items: [
         {
           title: "יציבות לפני תשואה",
